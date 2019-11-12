@@ -1,0 +1,4 @@
+{
+  "structures" : ["Isocortex"],
+  "manifest_file": "connectivity/mcmodels_manifest.json"
+}
