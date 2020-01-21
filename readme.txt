@@ -3,7 +3,7 @@ Density center-based fast clustering of widefield fluorescence imaging of cortic
 The implementation code for our recent paper:
 ```
 Miaowen Li, Shen Gui, Qin Huang, Liang Shi, Jinling Lu, and Pengcheng Li.
-"Density center-based fast clustering of widefield fluorescence imaging of cortical mesoscale functional connectivity and relation to structural connectivity". 2019.11.11. 
+"Density center-based fast clustering of widefield fluorescence imaging of cortical mesoscale functional connectivity and relation to structural connectivity". Neurophotonics 6.4.045014, 2019 Dec 17.
 ```
 
 We derived the structural connection using the code (i.e., the voxel-scale model) provided by Konx et al. (https://github.com/AllenInstitute/mouse_connectivity_models). The structural connection was then compared with functional connection using Matlab code. 
